@@ -5,6 +5,7 @@
 
 trigger:
 - master
+- andreea
 
 pool:
   vmImage: 'ubuntu-latest'
